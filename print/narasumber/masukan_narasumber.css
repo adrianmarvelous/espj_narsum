@@ -1,0 +1,19 @@
+.card{
+    border: 1px solid;
+    display: flex;
+    width: 500px;
+    height: auto;
+    padding: 20px;
+}
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+table{
+    flex: center;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid;
+}

@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+    font-size: 24px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    display: flex;
+    width: 400px;
+    padding: 40px;
+    margin-top: 100px;
+}
+label{
+    margin-top: 10px;
+}

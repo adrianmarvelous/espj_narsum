@@ -1,0 +1,9 @@
+body{
+    margin: 0px;
+}
+.title{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 28px;
+}

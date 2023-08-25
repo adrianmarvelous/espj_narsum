@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+    font-size: 38px;
+}
+.ttd{
+    display: flex;
+}
+.kiri{
+    width: 50%;
+    text-align: center;
+    line-height: 10px;
+}
+.kanan{
+    width: 50%;
+    text-align: center;
+    line-height: 10px;
+}
